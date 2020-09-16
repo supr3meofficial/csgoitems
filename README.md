@@ -3,8 +3,6 @@ A CSGO item data library for my [CSGOStash Scraper](https://github.com/supr3meof
 
 Current version: [v0.1](https://github.com/supr3meofficial/csgoitems/releases/tag/v0.1)
 
-#
-
 ## Data Model Example:
 
 ```rust
